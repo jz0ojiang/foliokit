@@ -33,7 +33,7 @@
     "llamaindex": "^0.9.19",
     "lodash": "^4.17.21",
     "markdown-it": "^14.1.0",
-    "nuxt": "^3.16.1",
+    "nuxt": "^3.19.0",
     "nuxt-twemoji": "3.6.3",
     "pinia": "^3.0.2",
     "prompts": "^2.4.2",
