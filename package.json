@@ -31,7 +31,7 @@
     "gsap": "^3.12.7",
     "gulp-rename": "^2.0.0",
     "llamaindex": "^0.9.19",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "markdown-it": "^14.1.0",
     "nuxt": "^3.16.1",
     "nuxt-twemoji": "3.6.3",
