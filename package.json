@@ -32,7 +32,7 @@
     "gulp-rename": "^2.0.0",
     "llamaindex": "^0.9.19",
     "lodash": "^4.17.21",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.1.1",
     "nuxt": "^3.16.1",
     "nuxt-twemoji": "3.6.3",
     "pinia": "^3.0.2",
